@@ -1,0 +1,5 @@
+string_a = input()
+list_a = list(string_a.split())
+print(list_a)
+tuple_a = tuple(string_a.split())
+print(tuple_a)
